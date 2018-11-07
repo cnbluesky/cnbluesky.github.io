@@ -9,6 +9,9 @@
 }
 .box_1 {
 }
+.paragraph {
+  text-align:left;
+}
 .box_2 {
 }
 .ellipse {
@@ -109,9 +112,12 @@
 }
 .vertical_line {
 }
+.radio_button1 {
+  text-align:left;
+}
 .box_21 {
 }
-.paragraph {
+.paragraph1 {
   text-align:left;
 }
 .heading_1 {
@@ -119,6 +125,13 @@
   font-weight:700;
   font-style:normal;
   font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
   text-align:left;
 }
 .label {
@@ -131,4 +144,6 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+.image1 {
 }
