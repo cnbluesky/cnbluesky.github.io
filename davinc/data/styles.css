@@ -20,6 +20,8 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 .button {
 }
 .primary_button {
@@ -152,4 +154,6 @@
 }
 ._文本段落1 {
   text-align:left;
+}
+.icon {
 }
