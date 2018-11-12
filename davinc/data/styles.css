@@ -94,6 +94,11 @@
 }
 .table_cell {
 }
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
 .sticky_1 {
   text-align:left;
 }
@@ -164,4 +169,6 @@
 ._垂直线 {
 }
 ._水平线 {
+}
+.horizontal_line {
 }
