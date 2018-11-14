@@ -254,8 +254,8 @@
   -moz-transform:rotate(180deg);
   -ms-transform:rotate(180deg);
   transform:rotate(180deg);
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -338,8 +338,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -537,8 +537,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -646,8 +646,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -755,8 +755,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -864,8 +864,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -1063,8 +1063,8 @@
   width:14px;
   height:15px;
   opacity:0.65;
-  font-family:'anticon', 'Anticon';
-  font-weight:400;
+  font-family:'anticon', 'Anticon Medium', 'Anticon';
+  font-weight:500;
   font-style:normal;
   font-size:28px;
   color:#FFFFFF;
@@ -6798,7 +6798,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:60px;
+  width:64px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6816,7 +6816,7 @@
   position:absolute;
   left:512px;
   top:424px;
-  width:60px;
+  width:64px;
   height:18px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -6827,7 +6827,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:60px;
+  width:64px;
   white-space:nowrap;
 }
 #u1935_div {
@@ -6835,7 +6835,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:38px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6853,7 +6853,7 @@
   position:absolute;
   left:512px;
   top:330px;
-  width:34px;
+  width:38px;
   height:18px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -6864,7 +6864,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:38px;
   white-space:nowrap;
 }
 #u1936_div {
@@ -6872,7 +6872,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:38px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6890,7 +6890,7 @@
   position:absolute;
   left:512px;
   top:297px;
-  width:34px;
+  width:38px;
   height:18px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -6901,7 +6901,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:38px;
   white-space:nowrap;
 }
 #u1937 {
@@ -7003,7 +7003,7 @@
 #u1940 {
   border-width:0px;
   position:absolute;
-  left:512px;
+  left:520px;
   top:492px;
   width:27px;
   height:18px;
@@ -7024,7 +7024,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:47px;
+  width:51px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -7042,7 +7042,7 @@
   position:absolute;
   left:512px;
   top:392px;
-  width:47px;
+  width:51px;
   height:18px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -7053,7 +7053,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:47px;
+  width:51px;
   white-space:nowrap;
 }
 #u1942 {
@@ -7231,7 +7231,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:60px;
+  width:64px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -7249,7 +7249,7 @@
   position:absolute;
   left:512px;
   top:459px;
-  width:60px;
+  width:64px;
   height:18px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -7260,7 +7260,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:60px;
+  width:64px;
   white-space:nowrap;
 }
 #u1948 {

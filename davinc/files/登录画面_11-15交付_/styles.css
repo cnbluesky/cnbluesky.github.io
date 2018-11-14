@@ -334,8 +334,8 @@
   top:312px;
   width:16px;
   height:16px;
-  font-family:'anticon';
-  font-weight:400;
+  font-family:'anticon', 'anticon Medium';
+  font-weight:500;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.247058823529412);
