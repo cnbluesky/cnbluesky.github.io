@@ -149,6 +149,9 @@
   text-align:left;
 }
 .label {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
@@ -180,4 +183,6 @@
   text-align:left;
 }
 .table {
+}
+.flow_shape {
 }
